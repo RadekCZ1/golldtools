@@ -1,0 +1,16 @@
+{
+  "name": "XAU INTEL",
+  "short_name": "XAU INTEL",
+  "description": "Trend a order flow na zlatě — VWAP se σ pásmy, CVD, struktura trhu",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070605",
+  "theme_color": "#070605",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
